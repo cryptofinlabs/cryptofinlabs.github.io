@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Abstract
+Bskt is a generic smart contract that creates decentralized token portfolios. Bskt facilitates the bundling and unbundling of a collection of Ethereum tokens in the form of an ERC20 token. Owners of the token have a direct claim on the underlying tokens.
 
-You can use the [editor on GitHub](https://github.com/cryptofinlabs/cryptofinlabs.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+These new tokens can be created by anyone who surrenders the underlying tokens and redeemed by anyone who owns issued tokens. Bskt allows investors to diversify their exposure to tokens in the Ethereum ecosystem cheaply, without adding custody risk.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Bskt portfolio launch
+We're launching the first official Bskt portfolio soon. [Enter your email](https://goo.gl/forms/mPOW9iMp0hU41NxD2) to be notified. (We won't spam or give out emails.)
 
-### Markdown
+## Mainnet test contract
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A test Bskt instance has been deployed to mainnet. The Bskt porfolio contains an example bundle consisting of some of the top 10 ERC20 tokens that plan to stay on Ethereum's platform.
 
-```markdown
-Syntax highlighted code block
+[Mainnet test contract (0x3a354bfea2b3a00b1130446e80650c5462f702bf)](https://etherscan.io/address/0x3a354bfea2b3a00b1130446e80650c5462f702bf)
 
-# Header 1
-## Header 2
-### Header 3
+### Bug bounty
+We're rewarding those who find bugs in the mainnet test contract. More details TBA.
 
-- Bulleted
-- List
+## Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cryptofinlabs/cryptofinlabs.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact us with questions and comments: [hi@cryptofin.io](mailto:hi@cryptofin.io).

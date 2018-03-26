@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: bskt
+description: a smart contract for creating decentralized token portfolios
+show_downloads: true
