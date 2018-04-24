@@ -10,7 +10,7 @@ We're launching the first official Bskt portfolio soon. [Enter your email](https
 
 A test Bskt instance has been deployed to mainnet. The Bskt porfolio contains an example bundle consisting of some of the top 10 ERC20 tokens that plan to stay on Ethereum's platform.
 
-[Mainnet test contract (0x3a354bfea2b3a00b1130446e80650c5462f702bf)](https://etherscan.io/address/0x3a354bfea2b3a00b1130446e80650c5462f702bf)
+[Mainnet test contract (0xe0366f8857B1466452B89C0EE03246F860A0eF01)](https://etherscan.io/address/0xe0366f8857B1466452B89C0EE03246F860A0eF01)
 
 ### Bug bounty
 We're rewarding those who find bugs in the mainnet test contract. More details TBA.
